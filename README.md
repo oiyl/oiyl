@@ -13,4 +13,5 @@
 
 # 📝 posts
 
-- 📎 [Crashing the biggest game hacking forum by accident](https://github.com/oiyl/vbulletin-3.x.x-crash)
+- 📎 [CVE-2025-46171 - vBulletin 3.8.7 Buddy List Denial of Service Vulnerability](https://github.com/oiyl/CVE-2025-46171)
+
